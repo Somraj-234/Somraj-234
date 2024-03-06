@@ -8,6 +8,7 @@ Developer, Designer
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,flask,selenium,mysql,figma,ps)](https://skillicons.dev)
 
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+* 🛒  My products are available on [234Studios](https://234studios.gumroad.com/)
 * ✉️  You can contact me at [jadhavsomraj234@gmail.com](mailto:jadhavsomraj234@gmail.com)
 
 ### Publications
@@ -16,9 +17,7 @@ Developer, Designer
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/somraj-jadhav-988014186/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://www.twitter.com/somrajjj234"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> </p>
-
-<p align="left"> <a href="https://www.github.com/Somraj-234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/somraj-jadhav-988014186/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/somrajjj234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/somraj-jadhav-988014186/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>   <a href="https://www.twitter.com/somrajjj234"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> </p>
 
 <!--
 **Somraj-234/Somraj-234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
