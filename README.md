@@ -3,6 +3,7 @@ Hi 👋 My name is Somraj Jadhav
 
 Developer, Designer
 -----------------------------
+![](https://komarev.com/ghpvc/?username=Somraj-234&label=PROFILE+VIEWS)
 
 ### Skills
 ![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,flask,selenium,mysql,figma,ps)
