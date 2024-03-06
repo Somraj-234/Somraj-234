@@ -7,7 +7,7 @@ Developer, Designer
 ### Skills
 ![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,flask,selenium,mysql,figma,ps)
 
-* 🤝  I'm open to collaborating on exciting projects as a python developer, designer or dev rel.
+* 🤝  I'm open to collaborating on exciting projects as a python developer or designer.
 * 🎨  My wallpapers, widget packs and notion templates are available on [234Studios](https://234studios.gumroad.com/)
 * ✉️  You can contact me at [jadhavsomraj234@gmail.com](mailto:jadhavsomraj234@gmail.com)
 
