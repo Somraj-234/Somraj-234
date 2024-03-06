@@ -5,7 +5,7 @@ Developer, Designer
 -----------------------------
 
 ### Skills
-(https://skillicons.dev/icons?i=py,c,cpp,java,html,css,flask,selenium,mysql,figma,ps)
+![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,flask,selenium,mysql,figma,ps)
 
 * 🤝  I'm open to collaborating on exciting projects as a python developer, designer or dev rel.
 * 🎨  My wallpapers, widget packs and notion templates are available on [234Studios](https://234studios.gumroad.com/)
