@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,flask,selenium,mysql,figma,ps)](https://skillicons.dev)
 <!--
 **Somraj-234/Somraj-234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
