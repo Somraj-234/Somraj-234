@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hi, I am Somraj Jadhav, i'm IT Engineer & Graphic Designer 👋
+### My Skills
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,flask,selenium,mysql,figma,ps)](https://skillicons.dev)
+
+### Publications
+“A Comprehensive Fuzzy Logic Approach for Individual Investor Risk Assessment” National Conference on Communication, Image Processing and Computing Organized by Walchand College of Engineering, Sangli, MS, India on 15-16 December 2023. (In the process of publication in the Indian Journal of Technical Education
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Somraj-234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/somraj-jadhav-988014186/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/somrajjj234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+* ✉️  You can contact me at [jadhavsomraj234@gmail.com](mailto:jadhavsomraj234@gmail.com)
 <!--
 **Somraj-234/Somraj-234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
