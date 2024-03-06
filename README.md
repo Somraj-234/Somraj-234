@@ -1,5 +1,5 @@
 ### Hi, I am Somraj Jadhav, i'm IT Engineer & Graphic Designer 👋
-### My Skills
+### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,flask,selenium,mysql,figma,ps)](https://skillicons.dev)
 
 ### Publications
@@ -8,7 +8,7 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Somraj-234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/somraj-jadhav-988014186/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/somrajjj234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Somraj-234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/somraj-jadhav-988014186/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/somrajjj234" target="_blank" rel="noreferrer"><img src="[!(https://skillicons.dev/icons?i=py,c,cpp,java,html,css,flask,selenium,mysql,figma,ps)](https://skillicons.dev)" /></a></p>
 
 * ✉️  You can contact me at [jadhavsomraj234@gmail.com](mailto:jadhavsomraj234@gmail.com)
 <!--
