@@ -12,9 +12,6 @@ Developer, Designer
 * 🎨  My wallpapers, widget packs and notion templates are available on [234Studios](https://234studios.gumroad.com/)
 * ✉️  You can contact me at [jadhavsomraj234@gmail.com](mailto:jadhavsomraj234@gmail.com)
 
-### Publications
-“A Comprehensive Fuzzy Logic Approach for Individual Investor Risk Assessment” National Conference on Communication, Image Processing and Computing Organized by Walchand College of Engineering, Sangli, MS, India on 15-16 December 2023. (In the process of publication in the Indian Journal of Technical Education
-
 
 ### Socials
 
