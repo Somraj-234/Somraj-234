@@ -1,3 +1,12 @@
+<a href="https://github.com/Somraj-234">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Somraj-234/testneo/main/dark_mode.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Somraj-234/testneo/main/light_mode.svg">
+  </picture>
+</a>
+
+
+<!--
 Hi 👋 My name is Somraj Jadhav
 ===============================
 
@@ -16,8 +25,12 @@ Developer, Designer
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/somraj-jadhav-988014186/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>   <a href="https://www.twitter.com/somrajjj234"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> </p>
+-->
+
 
 <!--
+below code is not necessary
+
 **Somraj-234/Somraj-234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
